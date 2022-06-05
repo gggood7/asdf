@@ -26,7 +26,7 @@ top 명령어는 실시간으로 현재 os의 상태를 나타내주는 CLI 어�
 
 Page up/down을 통해 페이지 이동이 가능
 
- 
+  
 
 <img width="795" alt="top 명령어 사용" src="https://user-images.githubusercontent.com/103065628/172044049-5993e9d3-a8c0-42b4-97e0-a1a9d10c06e4.png">
 
