@@ -95,7 +95,7 @@ top는 proc에서 일정 주기로 합산해 cpu 사용율 출력
 | `Command` | 지정한 명령어를 실행 |
 | `kill %[작업번호]` | 종료 |
 
- ㅤ
+ ㅤ 
 
 <img width="697" alt="jobs 명령어 실행" src="https://user-images.githubusercontent.com/103065628/172044549-3097d665-1c93-456a-b66d-62da9741a908.png">
 
