@@ -10,6 +10,7 @@ top 명령어는 실시간으로 현재 os의 상태를 나타내주는 CLI 어�
 
 `top [option]` 형태로 사용
 
+ 
 
 * top 명령어 옵션
 
@@ -25,6 +26,7 @@ top 명령어는 실시간으로 현재 os의 상태를 나타내주는 CLI 어�
 
 Page up/down을 통해 페이지 이동이 가능
 
+ 
 
 <img width="795" alt="top 명령어 사용" src="https://user-images.githubusercontent.com/103065628/172044049-5993e9d3-a8c0-42b4-97e0-a1a9d10c06e4.png">
 
@@ -39,6 +41,7 @@ process status의 약자로
 
 `ps [option]` 형태로 사용
 
+ 
 
 * ps 명령어 옵션
 
@@ -50,6 +53,7 @@ process status의 약자로
 
 `-p PID` : PID로 지정한 프로세스의 정보를 출력  등...
 
+ 
 
 <img width="697" alt="ps 명령어 사용" src="https://user-images.githubusercontent.com/103065628/172044420-9865dbb3-c110-4755-ac50-36bf7f829bcb.png">
 
@@ -74,6 +78,7 @@ top는 proc에서 일정 주기로 합산해 cpu 사용율 출력
 
 `jobs [option][%작업번호]` 형태로 사용
 
+ 
 
 * jobs 명령어 옵션
 
@@ -87,6 +92,7 @@ top는 proc에서 일정 주기로 합산해 cpu 사용율 출력
 
 `kill %[작업번호]` : 종료
 
+ 
 
 <img width="697" alt="jobs 명령어 실행" src="https://user-images.githubusercontent.com/103065628/172044549-3097d665-1c93-456a-b66d-62da9741a908.png">
 
@@ -100,6 +106,7 @@ _(실제 명령어를 입력했을 때의 터미널)_
 
 `kill [option][PID]` 형태로 사용
 
+ 
 
 * kill 명령어 옵션
 
@@ -111,6 +118,7 @@ _(실제 명령어를 입력했을 때의 터미널)_
 
 `-15` : 정상 종료
 
+ 
 
 <img width="697" alt="kill 명령어 사용" src="https://user-images.githubusercontent.com/103065628/172044742-69f67a15-0075-4a31-bd12-e38ec7117510.png">
 
@@ -124,6 +132,10 @@ ___매크로___
 
 매크로는 같은 동작을 반복하게 하는 것
 
+ 
+ 
+* 실행 방법
+
 1. `q[name]`을 눌러 기록을 시작
 
 2. 매크로 반복 동작을 입력하고 입력이 끝나면
@@ -134,6 +146,7 @@ ___매크로___
 
 4. @[name]을 누르면 자동으로 매크로가 실행됨
 
+ 
 
 _`[숫자]@[name]` : 숫자만큼 매크로가 실행됨_
 
